@@ -14,6 +14,16 @@
 
 
 
+## 写作规范
+
+ - 当前只有 G2 技术栈的问答，后续可能扩展到 AntV，所以相关文档放到相关目录中
+ - 使用 markdown 写作，中文文档规范参考 [lint-md](https://github.com/lint-md/lint-md#%E6%A3%80%E6%9F%A5%E7%B1%BB%E5%9E%8B)
+ - 文档标题和文件名保持一致，使用一级标题
+ - 新标题前两个换行
+ - 统一使用 Github 的图床
+ - 最后都需要一个 `总结一下` 的内容，去举一反三问题
+
+
 ## License
 
 [MIT](https://github.com/hustcc).
