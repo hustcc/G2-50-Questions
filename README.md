@@ -4,6 +4,11 @@
 
 [![Lint Markdown By lint-md](https://github.com/hustcc/G2-50-Questions/actions/workflows/syntax.yml/badge.svg)](https://github.com/hustcc/G2-50-Questions/actions/workflows/syntax.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](https://github.com/hustcc/G2-50-Questions/pulls)
 
+微信扫一扫关注我们的公众号，解锁更多内容。
+
+<p align="center">
+  <img src="https://gw.alipayobjects.com/zos/antfincdn/ZKlx96dsfs/qrcode_for_gh_f52d8b6aa591_258.jpg" width="192" height="192" />
+</p>
 
 
 ## 目录
