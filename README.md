@@ -34,7 +34,7 @@
 15. [如何调整柱状图间的间距.md](./G2/如何调整柱状图间的间距.md)
 16. [如何让双 y 轴刻度线和轴标题对齐.md](./G2/如何让双%20y%20轴刻度线和轴标题对齐.md)
 17. [如何解决图形区域太靠左或太靠右.md](./G2/如何解决图形区域太靠左或太靠右.md)
-18. [如何自定义 legend 的 icon/marker.md](./G2/如何自定义%20legend%20的%20icon/marker.md)
+18. [如何自定义 legend 的 icon(marker).md](./G2/如何自定义%20legend%20的%20icon(marker).md)
 
 
 > to be continue...
