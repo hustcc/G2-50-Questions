@@ -102,4 +102,4 @@ chart.render();
 
 ## 总结一下
 
-Legend 作为图表的辅助元素，在 G2 官网的[教程和文章--Lengend图例](https://antv-g2.gitee.io/zh/docs/manual/tutorial/legend/#gatsby-focus-wrapper)一节就可以清楚知道如何配置图例，对图例的整体样式做设置，以及如何设置各个图例项的样式等，帮助您快速熟悉 Legend。当需要查看详细的 API 时，则应该到 G2 官网的 [G2 详细手册](https://antv-g2.gitee.io/zh/docs/api/general/legend/#legendoptionlayout) 查看相关内容。
+Legend 作为图表的辅助元素，在 G2 官网的[教程和文章-- Lengend 图例](https://antv-g2.gitee.io/zh/docs/manual/tutorial/legend/#gatsby-focus-wrapper)一节就可以清楚知道如何配置图例，对图例的整体样式做设置，以及如何设置各个图例项的样式等，帮助您快速熟悉 Legend。当需要查看详细的 API 时，则应该到 G2 官网的 [G2 详细手册](https://antv-g2.gitee.io/zh/docs/api/general/legend/#legendoptionlayout) 查看相关内容。
